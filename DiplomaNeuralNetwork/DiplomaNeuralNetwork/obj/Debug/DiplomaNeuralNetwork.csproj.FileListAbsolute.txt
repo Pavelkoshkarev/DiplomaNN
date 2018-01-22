@@ -1,0 +1,7 @@
+c:\users\pasho_000\documents\visual studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\bin\Debug\DiplomaNeuralNetwork.exe.config
+c:\users\pasho_000\documents\visual studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\bin\Debug\DiplomaNeuralNetwork.exe
+C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\bin\Debug\DiplomaNeuralNetwork.pdb
+C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.exe
+C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.pdb
