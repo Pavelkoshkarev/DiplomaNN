@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-enum MemoryMode { GET, SET }
+enum MemoryMode { GET, SET, DROP }
 enum NeuronType { Hidden, Output }
 
 

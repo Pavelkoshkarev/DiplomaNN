@@ -5,3 +5,10 @@ C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\Di
 C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.csproj.CoreCompileInputs.cache
 C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.exe
 C:\Users\pasho_000\Documents\Visual Studio 2015\Projects\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.pdb
+C:\Users\pasho_000\Documents\GitHub\DiplomaNN\DiplomaNeuralNetwork\DiplomaNeuralNetwork\bin\Debug\DiplomaNeuralNetwork.exe.config
+C:\Users\pasho_000\Documents\GitHub\DiplomaNN\DiplomaNeuralNetwork\DiplomaNeuralNetwork\bin\Debug\DiplomaNeuralNetwork.exe
+C:\Users\pasho_000\Documents\GitHub\DiplomaNN\DiplomaNeuralNetwork\DiplomaNeuralNetwork\bin\Debug\DiplomaNeuralNetwork.pdb
+C:\Users\pasho_000\Documents\GitHub\DiplomaNN\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\pasho_000\Documents\GitHub\DiplomaNN\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\pasho_000\Documents\GitHub\DiplomaNN\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.exe
+C:\Users\pasho_000\Documents\GitHub\DiplomaNN\DiplomaNeuralNetwork\DiplomaNeuralNetwork\obj\Debug\DiplomaNeuralNetwork.pdb

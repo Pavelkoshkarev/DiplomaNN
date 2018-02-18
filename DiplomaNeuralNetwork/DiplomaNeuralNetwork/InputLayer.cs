@@ -33,5 +33,7 @@ namespace DiplomaNeuralNetwork
 
         public (double[], double[])[]
         Trainset { get => _trainset; }
+
+        
     }
 }

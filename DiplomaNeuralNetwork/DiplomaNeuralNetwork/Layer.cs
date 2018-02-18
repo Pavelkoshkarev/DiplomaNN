@@ -74,6 +74,11 @@ namespace DiplomaNeuralNetwork
                         for (int k = 0; k < numerOfPreviousNeurons; ++k)
                             memory_el.ChildNodes.Item(k + numerOfPreviousNeurons * l).InnerText = Neurons[l].Weights[k].ToString();
                     break;
+                case MemoryMode.DROP:
+                    for (int l = 0; l < Neurons.Length; ++l)
+                        for (int k = 0; k < numerOfPreviousNeurons; ++k)
+                            memory_el.ChildNodes.Item(k + numerOfPreviousNeurons * l).InnerText = "0";
+                    break;
             }
             memory_doc.Save($"{type}_memory.xml");
             Console.WriteLine($"{type} weights have been initialized...");
