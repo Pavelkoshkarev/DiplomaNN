@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -38,8 +39,9 @@ namespace DiplomaNeuralNetwork
         public void GetTrainDataFromFile(int inputDataLngth, int resultLngth)
         {
             (double[], double[])[] data;
-            string[] lines, input, result;
-            char[] separator1 = { '\u0085' };
+            string[] lines;
+            double[] input, result;
+            char[] separator1 = { '\u000A', '\u000D', '\u0085', '\u2028', '\u2029' };
             char[] separator2 = { '\u0020' };
             try
             {   
@@ -51,12 +53,17 @@ namespace DiplomaNeuralNetwork
                     for (int i = 1; i < lines.Length; i++)
                     {
                         string[] temp = lines[i].Split(separator2, StringSplitOptions.RemoveEmptyEntries);
-                        input = new string[inputDataLngth];
-                        result = new string[resultLngth];
+                        input = new double[inputDataLngth];
+                        result = new double[resultLngth];
                         for (int j = 0; j < inputDataLngth; j++)
                         {
-                            
+                            input[j] = Convert.ToDouble(temp[j], CultureInfo.InvariantCulture);
                         }
+                        for (int j = inputDataLngth; j < resultLngth; j++)
+                        {
+                            result[j] = Convert.ToDouble(temp[j], CultureInfo.InvariantCulture);
+                        }
+                        data[i - 1] = (input, result);
                         Console.WriteLine(lines[i]);
                     }
                     
