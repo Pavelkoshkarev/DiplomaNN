@@ -15,7 +15,8 @@ namespace DiplomaNeuralNetwork
         static void Main(string[] args)
         {
             Network net = new Network();
-            Network.Train(net);
+            net.input_layer.GetTrainDataFromFile();
+            //Network.Train(net);
             Network.TestWords(net);
             Console.ReadKey();
         }
